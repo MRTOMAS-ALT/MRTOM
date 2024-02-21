@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MRTOMAS-ALT
+- 👋 Hi, I’m MR TOMAS
 
 
 <!---
