@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MR TOMAS
 
- <h4>Quick Fixes</h4>
+ <h4>i ll add a title later</h4>
       <ul class="quick-fixes">
         <li><a href="#">write tons of code every day</a></li>
         <li><a href="#">Update outdated information</a></li>
